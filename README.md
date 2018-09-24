@@ -9,4 +9,4 @@ Navigate to `localhost:3000` in your browser to see the app! (A new tab should o
 # Credits
 
  Ryan Waite's tutorial video for this project: https://www.youtube.com/watch?v=acJHkd6K5kI&feature=youtu.be
- reacttraining.com
+ http://reacttraining.com
